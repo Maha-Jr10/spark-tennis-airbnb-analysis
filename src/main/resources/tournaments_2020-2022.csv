@@ -1,0 +1,223 @@
+tourn_type,tourn_name,tourn_id,tourn_location,tourn_start_year,tourn_ground,tourn_value,tourn_winner,winner_id
+ATP Cup,ATP Cup,8888,atp-cup,2020,Hard,"$15,000,000",Novak Djokovic,d643
+ATP 250,Doha,451,doha,2020,Hard,"$1,465,260",Andrey Rublev,re44
+ATP 250,Adelaide,8998,adelaide,2020,Hard,"$610,010",Andrey Rublev,re44
+ATP 250,Auckland,301,auckland,2020,Hard,"$610,010",Ugo Humbert,hh26
+Grand Slam,Australian Open,580,australian-open,2020,Hard,"A$32,505,000",Novak Djokovic,d643
+ATP 250,Cordoba,9158,cordoba,2020,Clay,"$610,010",Cristian Garin,gd64
+ATP 250,Pune,891,pune,2020,Hard,"$610,010",Jiri Vesely,v708
+ATP 250,Montpellier,375,montpellier,2020,Hard,"€606,350",Gael Monfils,mc65
+ATP 500,Rotterdam,407,rotterdam,2020,Hard,"€2,155,295",Gael Monfils,mc65
+ATP 250,New York,424,new-york,2020,Hard,"$804,180",Kyle Edmund,e831
+ATP 250,Buenos Aires,506,buenos-aires,2020,Clay,"$696,280",Casper Ruud,rh16
+ATP 500,Rio de Janeiro,6932,rio-de-janeiro,2020,Clay,"$1,915,485",Cristian Garin,gd64
+ATP 250,Marseille,496,marseille,2020,Hard,"€769,670",Stefanos Tsitsipas,te51
+ATP 250,Delray Beach,499,delray-beach,2020,Hard,"$673,655",Reilly Opelka,o522
+ATP 500,Dubai,495,dubai,2020,Hard,"$2,950,420",Novak Djokovic,d643
+ATP 500,Acapulco,807,acapulco,2020,Hard,"$2,000,845",Rafael Nadal,n409
+ATP 250,Santiago,8996,santiago,2020,Clay,"$674,730",Thiago Seyboth Wild,sx91
+Masters 1000,ATP Masters 1000 Indian Wells (Suspended),404,indian-wells,2020,Hard,"$9,735,685",,
+Masters 1000,ATP Masters 1000 Miami (Suspended),403,miami,2020,Hard,"$9,735,685",,
+ATP 250,Houston (Suspended),717,houston,2020,Clay,"$674,730",,
+ATP 250,Marrakech (Suspended),360,marrakech,2020,Clay,"€606,350",,
+Masters 1000,ATP Masters 1000 Monte Carlo (Suspended),410,monte-carlo,2020,Clay,"€5,961,830",,
+ATP 500,Barcelona (Suspended),425,barcelona,2020,Clay,"€2,803,265",,
+ATP 250,Budapest (Suspended),7648,budapest,2020,Clay,"€606,350",,
+ATP 250,Estoril (Suspended),7290,estoril,2020,Clay,"€606,350",,
+ATP 250,Munich (Suspended),308,munich,2020,Clay,"€606,350",,
+ATP 250,Geneva (Suspended),322,geneva,2020,Clay,"€606,350",,
+ATP 250,Lyon (Suspended),7694,lyon,2020,Clay,"€606,350",,
+ATP 250,Stuttgart (Suspended),321,stuttgart,2020,Grass,"€780,570",,
+ATP 250,'s-Hertogenbosch (Suspended),440,s-hertogenbosch,2020,Grass,"€735,790",,
+ATP 500,Halle (Suspended),500,halle,2020,Grass,"€2,275,960",,
+ATP 500,London / Queen's Club (Suspended),311,london,2020,Grass,"€2,275,960",,
+ATP 250,Mallorca (Suspended),8994,mallorca,2020,Grass,"$963,655",,
+ATP 250,Eastbourne (Suspended),741,eastbourne,2020,Grass,"€771,680",,
+Grand Slam,Wimbledon (Suspended),540,wimbledon,2020,Grass,,,
+ATP 250,Newport (Suspended),315,newport,2020,Grass,"$674,730",,
+ATP 250,Bastad (Suspended),316,bastad,2020,Clay,"€606,350",,
+ATP 250,Los Cabos (Suspended),7480,los-cabos,2020,Hard,"$933,625",,
+ATP 250,Gstaad (Suspended),314,gstaad,2020,Clay,"€606,350",,
+ATP 250,Umag (Suspended),439,umag,2020,Clay,"€606,350",,
+,Tokyo Olympics (Suspended),96,tokyo,2020,Hard,,,
+ATP 250,Atlanta (Suspended),6116,atlanta,2020,Hard,"$804,180",,
+Masters 1000,ATP Masters 1000 Canada (Suspended),421,toronto,2020,Hard,"$6,753,510",,
+ATP 500,Washington (Suspended),418,washington,2020,Hard,"$2,108,865",,
+Masters 1000,ATP Masters 1000 Cincinnati,422,new-york,2020,Hard,"$4,674,780",Novak Djokovic,d643
+ATP 250,Winston-Salem (Suspended),6242,winston-salem,2020,Hard,"$835,020",,
+Grand Slam,US Open,560,us-open,2020,Hard,"$21,656,000",Dominic Thiem,tb69
+ATP 250,Kitzbuhel,319,kitzbuhel,2020,Clay,"€400,335",Miomir Kecmanovic,ki95
+Masters 1000,ATP Masters 1000 Madrid (Suspended),1536,madrid,2020,Clay,"€7,659,165",,
+Masters 1000,ATP Masters 1000 Rome,416,rome,2020,Clay,"€3,854,000",Novak Djokovic,d643
+ATP 500,Hamburg,414,hamburg,2020,Clay,"€1,203,960",Andrey Rublev,re44
+ATP 250,Metz (Suspended),341,metz,2020,Hard,"€606,350",,
+Laver Cup,Laver Cup (Suspended),9210,laver-cup,2020,Hard,,,
+Grand Slam,Roland Garros,520,roland-garros,2020,Clay,"€18,209,040",Rafael Nadal,n409
+ATP 250,Chengdu (Suspended),7581,chengdu,2020,Hard,"$1,255,180",,
+ATP 250,Zhuhai (Suspended),9164,zhuhai,2020,Hard,"$1,034,655",,
+ATP 500,Beijing (Suspended),747,beijing,2020,Hard,"$3,728,800",,
+ATP 500,Tokyo (Suspended),329,tokyo,2020,Hard,"$2,108,865",,
+Masters 1000,ATP Masters 1000 Shanghai (Suspended),5014,shanghai,2020,Hard,"$8,741,630",,
+ATP 500,St. Petersburg,568,st-petersburg,2020,Hard,"$1,399,370",Andrey Rublev,re44
+ATP 250,Cologne 1,9404,cologne,2020,Hard,"€271,345",Alexander Zverev,z355
+ATP 250,Sardinia,9408,sardinia,2020,Clay,"€271,345",Laslo Djere,db63
+ATP 250,Stockholm (Suspended),429,stockholm,2020,Hard,"€735,790",,
+ATP 250,Moscow (Suspended),438,moscow,2020,Hard,"$668,120",,
+ATP 250,Antwerp,7485,antwerp,2020,Hard,"€472,590",Ugo Humbert,hh26
+ATP 250,Cologne 2,9406,cologne-2,2020,Hard,"€271,345",Alexander Zverev,z355
+ATP 500,Basel (Suspended),328,basel,2020,Hard,"€2,276,790",,
+ATP 500,Vienna,337,vienna,2020,Hard,"€1,550,950",Andrey Rublev,re44
+ATP 250,Nur-Sultan,9410,nur-sultan,2020,Hard,"$337,000",John Millman,mh30
+Masters 1000,ATP Masters 1000 Paris,352,paris,2020,Hard,"€3,732,680",Daniil Medvedev,mm58
+ATP 250,Sofia,7434,sofia,2020,Hard,"€389,270",Jannik Sinner,s0ag
+Next Gen Finals,Next Gen ATP Finals (Suspended),7696,next-gen-atp-finals,2020,Hard,,,
+ATP Finals,Nitto ATP Finals,605,nitto-atp-finals,2020,Hard,"$5,700,000",Daniil Medvedev,mm58
+ATP 250,Delray Beach,499,delray-beach,2021,Hard,"$418,195",Hubert Hurkacz,hb71
+ATP 250,Antalya,9426,antalya,2021,Hard,"€361,800",Alex de Minaur,dh58
+ATP 250,Auckland (Cancelled),301,auckland,2021,Hard,,,
+ATP 250,Melbourne 1,8998,melbourne,2021,Hard,"$382,575",Jannik Sinner,s0ag
+ATP 250,Melbourne 2,9428,melbourne,2021,Hard,"$320,775",Daniel Evans,e687
+ATP 250,Pune (Cancelled),891,pune,2021,Hard,,,
+ATP Cup,ATP Cup,8888,atp-cup,2021,Hard,"$4,666,665",Daniil Medvedev,mm58
+Grand Slam,Australian Open,580,australian-open,2021,Hard,"A$32,790,000",Novak Djokovic,d643
+ATP 250,New York (Cancelled),424,new-york,2021,Hard,,,
+ATP 500,Rio de Janeiro (Cancelled),6932,rio-de-janeiro,2021,Clay,,,
+ATP 250,Singapore,9460,singapore,2021,Hard,"$541,800",Alexei Popyrin,p09z
+ATP 250,Cordoba,9158,cordoba,2021,Clay,"$514,800",Juan Manuel Cerundolo,c0c8
+ATP 250,Montpellier,375,montpellier,2021,Hard,"€481,270",David Goffin,gb88
+ATP 500,Rotterdam,407,rotterdam,2021,Hard,"€1,314,015",Andrey Rublev,re44
+ATP 250,Buenos Aires,506,buenos-aires,2021,Clay,"$589,160",Diego Schwartzman,sm37
+ATP 250,Doha,451,doha,2021,Hard,"$1,153,560",Nikoloz Basilashvili,bg23
+ATP 250,Marseille,496,marseille,2021,Hard,"€610,315",Daniil Medvedev,mm58
+ATP 250,Santiago,8996,santiago,2021,Clay,"$569,010",Cristian Garin,gd64
+ATP 500,Dubai,495,dubai,2021,Hard,"$2,048,855",Aslan Karatsev,kc56
+ATP 500,Acapulco,807,acapulco,2021,Hard,"$1,204,960",Alexander Zverev,z355
+Masters 1000,ATP Masters 1000 Miami,403,miami,2021,Hard,"$4,299,205",Hubert Hurkacz,hb71
+ATP 250,Marrakech (Cancelled),360,marrakech,2021,Clay,"€481,270",,
+ATP 250,Cagliari,9481,cagliari,2021,Clay,"€408,800",Lorenzo Sonego,su87
+ATP 250,Marbella,9462,marbella,2021,Clay,"€408,800",Pablo Carreno Busta,cd85
+ATP 250,Houston (Cancelled),717,houston,2021,Clay,,,
+Masters 1000,ATP Masters 1000 Monte Carlo,410,monte-carlo,2021,Clay,"€2,460,585",Stefanos Tsitsipas,te51
+ATP 500,Barcelona,425,barcelona,2021,Clay,"€1,702,800",Rafael Nadal,n409
+ATP 250,Belgrade,5053,belgrade,2021,Clay,"€711,800",Matteo Berrettini,bk40
+ATP 250,Estoril,7290,estoril,2021,Clay,"€481,270",Albert Ramos-Vinolas,r772
+ATP 250,Munich,308,munich,2021,Clay,"€481,270",Nikoloz Basilashvili,bg23
+Masters 1000,ATP Masters 1000 Madrid,1536,madrid,2021,Clay,"€3,226,325",Alexander Zverev,z355
+Masters 1000,ATP Masters 1000 Rome,416,rome,2021,Clay,"€2,563,710",Rafael Nadal,n409
+ATP 250,Geneva,322,geneva,2021,Clay,"€481,270",Casper Ruud,rh16
+ATP 250,Lyon,7694,lyon,2021,Clay,"€481,270",Stefanos Tsitsipas,te51
+ATP 250,Parma,9510,parma,2021,Clay,"€541,800",Sebastian Korda,k0ah
+ATP 250,Belgrade 2,9512,belgrade,2021,Clay,"€511,000",Novak Djokovic,d643
+Grand Slam,Roland Garros,520,roland-garros,2021,Clay,"€17,171,108",Novak Djokovic,d643
+ATP 250,'s-Hertogenbosch (Cancelled),440,s-hertogenbosch,2021,Grass,,,
+ATP 250,Stuttgart,321,stuttgart,2021,Grass,"€618,735",Marin Cilic,c977
+ATP 500,Halle,500,halle,2021,Grass,"€1,455,925",Ugo Humbert,hh26
+ATP 500,London / Queen's Club,311,london,2021,Grass,"€1,427,455",Matteo Berrettini,bk40
+ATP 250,Mallorca,8994,mallorca,2021,Grass,"€783,655",Daniil Medvedev,mm58
+ATP 250,Eastbourne,741,eastbourne,2021,Grass,"€609,065",Alex de Minaur,dh58
+Grand Slam,Wimbledon,540,wimbledon,2021,Grass,"£17,066,000",Novak Djokovic,d643
+ATP 500,Hamburg,414,hamburg,2021,Clay,"€1,168,220",Pablo Carreno Busta,cd85
+ATP 250,Newport,315,newport,2021,Grass,"$535,535",Kevin Anderson,a678
+ATP 250,Bastad,316,bastad,2021,Clay,"€481,270",Casper Ruud,rh16
+ATP 250,Los Cabos,7480,los-cabos,2021,Hard,"$694,655",Cameron Norrie,n771
+ATP 250,Gstaad,314,gstaad,2021,Clay,"€481,270",Casper Ruud,rh16
+ATP 250,Umag,439,umag,2021,Clay,"€481,270",Carlos Alcaraz,a0e2
+,Tokyo Olympics,96,tokyo,2021,Hard,,Alexander Zverev,z355
+ATP 250,Atlanta,6116,atlanta,2021,Hard,"$638,385",John Isner,i186
+ATP 250,Kitzbuhel,319,kitzbuhel,2021,Clay,"€481,270",Casper Ruud,rh16
+ATP 500,Washington,418,washington,2021,Hard,"$2,046,340",Jannik Sinner,s0ag
+Masters 1000,ATP Masters 1000 Canada,421,toronto,2021,Hard,"$3,487,915",Daniil Medvedev,mm58
+Masters 1000,ATP Masters 1000 Cincinnati,422,cincinnati,2021,Hard,"$6,615,690",Alexander Zverev,z355
+ATP 250,Winston-Salem,6242,winston-salem,2021,Hard,"$807,210",Ilya Ivashka,i305
+Grand Slam,US Open,560,us-open,2021,Hard,"$27,200,000",Daniil Medvedev,mm58
+ATP 250,Nur-Sultan,9410,nur-sultan,2021,Hard,"$541,800",Soonwoo Kwon,kf17
+ATP 250,Metz,341,metz,2021,Hard,"€481,270",Hubert Hurkacz,hb71
+Laver Cup,Laver Cup,9210,laver-cup,2021,Hard,,,
+ATP 250,San Diego,9569,san-diego,2021,Hard,"$661,800",Casper Ruud,rh16
+ATP 250,Sofia,7434,sofia,2021,Hard,"€481,270",Jannik Sinner,s0ag
+ATP 250,Chengdu (Cancelled),7581,chengdu,2021,Hard,,,
+ATP 250,Zhuhai (Cancelled),9164,zhuhai,2021,Hard,,,
+Masters 1000,ATP Masters 1000 Shanghai (Cancelled),5014,shanghai,2021,Hard,,,
+ATP 500,Beijing (Cancelled),747,beijing,2021,Hard,,,
+ATP 500,Tokyo (Cancelled),329,tokyo,2021,Hard,,,
+Masters 1000,ATP Masters 1000 Indian Wells,404,indian-wells,2021,Hard,"$9,146,125",Cameron Norrie,n771
+ATP 250,Moscow,438,moscow,2021,Hard,"$779,515",Aslan Karatsev,kc56
+ATP 250,Antwerp,7485,antwerp,2021,Hard,"€584,125",Jannik Sinner,s0ag
+ATP 500,Vienna,337,vienna,2021,Hard,"€2,089,335",Alexander Zverev,z355
+ATP 250,St. Petersburg,568,st-petersburg,2021,Hard,"$932,370",Marin Cilic,c977
+ATP 500,Basel (Cancelled),328,basel,2021,Hard,,,
+Masters 1000,ATP Masters 1000 Paris,352,paris,2021,Hard,"€5,688,155",Novak Djokovic,d643
+ATP 250,Stockholm,429,stockholm,2021,Hard,"€711,275",Tommy Paul,pl56
+Next Gen Finals,Intesa Sanpaolo Next Gen ATP Finals,7696,intesa-sanpaolo-next-gen-atp-finals,2021,Hard,"$1,300,000",Carlos Alcaraz,a0e2
+ATP Finals,Nitto ATP Finals,605,nitto-atp-finals,2021,Hard,"$7,250,000",Alexander Zverev,z355
+ATP Cup,ATP Cup,8888,atp-cup,2022,Hard,"$10,000,000",Felix Auger-Aliassime,ag37
+ATP 250,Adelaide International 1,8998,adelaide,2022,Hard,"$416,800",Gael Monfils,mc65
+ATP 250,Melbourne Summer Set,9665,melbourne,2022,Hard,"$521,000",Rafael Nadal,n409
+ATP 250,Sydney Tennis Classic,9663,sydney,2022,Hard,"$521,000",Aslan Karatsev,kc56
+ATP 250,Adelaide International 2,9667,adelaide,2022,Hard,"$493,875",Thanasi Kokkinakis,kd46
+Grand Slam,Australian Open,580,australian-open,2022,Hard,"A$33,784,200",Rafael Nadal,n409
+ATP 250,Cordoba Open,9158,cordoba,2022,Clay,"$493,875",Albert Ramos-Vinolas,r772
+ATP 250,Tata Open Maharashtra,891,pune,2022,Hard,"$493,875",Joao Sousa,sh90
+ATP 250,Open Sud de France – Montpellier,375,montpellier,2022,Hard,"€490,990",Alexander Bublik,bk92
+ATP 500,ABN AMRO Open,407,rotterdam,2022,Hard,"€1,349,070",Felix Auger-Aliassime,ag37
+ATP 250,Dallas Open,424,dallas,2022,Hard,"$792,980",Reilly Opelka,o522
+ATP 250,Argentina Open,506,buenos-aires,2022,Clay,"$686,700",Casper Ruud,rh16
+ATP 500,Rio Open presented by Claro,6932,rio-de-janeiro,2022,Clay,"$1,815,115",Carlos Alcaraz,a0e2
+ATP 250,Qatar ExxonMobil Open,451,doha,2022,Hard,"$1,176,595",Roberto Bautista Agut,bd06
+ATP 250,Delray Beach Open,499,delray-beach,2022,Hard,"$664,275",Cameron Norrie,n771
+ATP 250,Open 13 Provence,496,marseille,2022,Hard,"€622,610",Andrey Rublev,re44
+ATP 500,Dubai Duty Free Tennis Championships,495,dubai,2022,Hard,"$2,949,665",Andrey Rublev,re44
+ATP 500,Abierto Mexicano Telcel presentado por HSBC,807,acapulco,2022,Hard,"$1,832,890",Rafael Nadal,n409
+ATP 250,Chile Dove Men+Care Open,8996,santiago,2022,Clay,"$546,340",Pedro Martinez,mo44
+Masters 1000,BNP Paribas Open,404,indian-wells,2022,Hard,"$9,554,920",Taylor Fritz,fb98
+Masters 1000,Miami Open presented by Itau,403,miami,2022,Hard,"$9,554,920",Carlos Alcaraz,a0e2
+ATP 250,Fayez Sarofim & Co. U.S. Men's Clay Court Championship,717,houston,2022,Clay,"$665,330",Reilly Opelka,o522
+ATP 250,Grand Prix Hassan II,360,marrakech,2022,Clay,"€597,900",David Goffin,gb88
+Masters 1000,Rolex Monte-Carlo Masters,410,monte-carlo,2022,Clay,"€5,802,475",Stefanos Tsitsipas,te51
+ATP 500,Barcelona Open Banc Sabadell,425,barcelona,2022,Clay,"€2,802,580",Carlos Alcaraz,a0e2
+ATP 250,Serbia Open,5053,belgrade,2022,Clay,"€597,900",Andrey Rublev,re44
+ATP 250,BMW Open by American Express,308,munich,2022,Clay,"€597,900",Holger Rune,r0dg
+ATP 250,Millennium Estoril Open,7290,estoril,2022,Clay,"€597,900",Sebastian Baez,b0bi
+Masters 1000,Mutua Madrid Open,1536,madrid,2022,Clay,"€7,499,290",Carlos Alcaraz,a0e2
+Masters 1000,Internazionali BNL d'Italia,416,rome,2022,Clay,"€6,008,725",Novak Djokovic,d643
+ATP 250,Gonet Geneva Open,322,geneva,2022,Clay,"€597,900",Casper Ruud,rh16
+ATP 250,Open Parc Auvergne-Rhone-Alpes Lyon,7694,lyon,2022,Clay,"€597,900",Cameron Norrie,n771
+Grand Slam,Roland Garros,520,roland-garros,2022,Clay,"€21,256,800",Rafael Nadal,n409
+ATP 250,BOSS OPEN,321,stuttgart,2022,Grass,"€769,645",Matteo Berrettini,bk40
+ATP 250,Libema Open,440,s-hertogenbosch,2022,Grass,"€725,540",Tim van Rijthoven,v942
+ATP 500,Cinch Championships,311,london,2022,Grass,"€2,275,275",Matteo Berrettini,bk40
+ATP 500,Terra Wortmann Open,500,halle,2022,Grass,"€2,275,275",Hubert Hurkacz,hb71
+ATP 250,Mallorca Championships,8994,mallorca,2022,Grass,"€951,745",Stefanos Tsitsipas,te51
+ATP 250,Rothesay International,741,eastbourne,2022,Grass,"€760,750",Taylor Fritz,fb98
+Grand Slam,Wimbledon,540,wimbledon,2022,Grass,"£18,652,000",Novak Djokovic,d643
+ATP 250,Infosys Hall of Fame Open,315,newport,2022,Grass,"$665,330",Maxime Cressy,c0bc
+ATP 250,Nordea Open,316,bastad,2022,Clay,"€597,900",Francisco Cerundolo,c0au
+ATP 500,Hamburg European Open,414,hamburg,2022,Clay,"€1,911,620",Lorenzo Musetti,m0ej
+ATP 250,EFG Swiss Open Gstaad,314,gstaad,2022,Clay,"€597,900",Casper Ruud,rh16
+ATP 250,Atlanta Open,6116,atlanta,2022,Hard,"$792,980",Alex de Minaur,dh58
+ATP 250,Generali Open,319,kitzbuhel,2022,Clay,"€597,900",Roberto Bautista Agut,bd06
+ATP 250,Plava Laguna Croatia Open Umag,439,umag,2022,Clay,"€597,900",Jannik Sinner,s0ag
+ATP 500,Citi Open,418,washington,2022,Hard,"$2,108,110",Nick Kyrgios,ke17
+ATP 250,Abierto de Tenis Mifel,7480,los-cabos,2022,Hard,"$920,625",Daniil Medvedev,mm58
+Masters 1000,National Bank Open Presented by Rogers,421,montreal,2022,Hard,"$6,573,785",Pablo Carreno Busta,cd85
+Masters 1000,Western & Southern Open,422,cincinnati,2022,Hard,"$6,971,275",Borna Coric,cg80
+ATP 250,Winston-Salem Open,6242,winston-salem,2022,Hard,"$823,420",Adrian Mannarino,me82
+Grand Slam,US Open,560,us-open,2022,Hard,"$27,915,200",Carlos Alcaraz,a0e2
+ATP 250,San Diego Open,9569,san-diego,2022,Hard,"$612,000",Brandon Nakashima,n0ae
+ATP 250,Moselle Open,341,metz,2022,Hard,"€597,900",Lorenzo Sonego,su87
+Laver Cup,Laver Cup,9210,laver-cup,2022,Hard,,,
+ATP 250,Eugene Korea Open Tennis Championships,4140,seoul,2022,Hard,"$1,237,570",Yoshihito Nishioka,n732
+ATP 250,Tel Aviv Watergen Open,4138,tel-aviv,2022,Hard,"$1,019,855",Novak Djokovic,d643
+ATP 250,Sofia Open,7434,sofia,2022,Hard,"€597,900",Marc-Andrea Huesler,hh06
+ATP 500,Rakuten Japan Open Tennis Championships,329,tokyo,2022,Hard,"$2,108,110",Taylor Fritz,fb98
+ATP 500,Astana Open,9410,astana,2022,Hard,"$2,054,825",Novak Djokovic,d643
+ATP 250,Gijon Open,2807,gijon,2022,Hard,"€675,345",Andrey Rublev,re44
+ATP 250,UniCredit Firenze Open,2805,florence,2022,Hard,"€612,000",Felix Auger-Aliassime,ag37
+ATP 250,European Open,7485,antwerp,2022,Hard,"€725,540",Felix Auger-Aliassime,ag37
+ATP 250,Stockholm Open,429,stockholm,2022,Hard,"€725,540",Holger Rune,r0dg
+ATP 250,Tennis Napoli Cup,2809,naples,2022,Hard,"€612,000",Lorenzo Musetti,m0ej
+ATP 500,Erste Bank Open,337,vienna,2022,Hard,"€2,489,935",Daniil Medvedev,mm58
+ATP 500,Swiss Indoors Basel,328,basel,2022,Hard,"€2,276,105",Felix Auger-Aliassime,ag37
+Masters 1000,Rolex Paris Masters,352,paris,2022,Hard,"€6,008,725",Holger Rune,r0dg
+Next Gen Finals,Intesa Sanpaolo Next Gen ATP Finals,7696,intesa-sanpaolo-next-gen-atp-finals,2022,Hard,"$1,622,400",Brandon Nakashima,n0ae
+ATP Finals,Nitto ATP Finals,605,nitto-atp-finals,2022,Hard,"$14,750,000",Novak Djokovic,d643
