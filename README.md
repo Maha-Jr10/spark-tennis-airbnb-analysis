@@ -45,8 +45,8 @@ spark-project-Intellij/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/spark-big-data-final-project.git
-   cd spark-big-data-final-project
+   git clone https://github.com/Maha-Jr10/spark-tennis-airbnb-analysis.git
+   cd spark-tennis-airbnb-analysis
    ```
 
 2. **Place the CSV files** in `src/main/resources/` (as shown above).
