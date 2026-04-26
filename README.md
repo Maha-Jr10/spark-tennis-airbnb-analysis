@@ -113,7 +113,7 @@ libraryDependencies ++= Seq(
 
 ## 📝 Notes
 
-* Part I.1 uses **GraphX** (RDD-based) as explicitly required by the professor.
+* Part I.1 uses **GraphX** (RDD-based).
 * Part I.2 uses **GraphFrames** (DataFrame-based) because the CSV data is easier to handle with Spark SQL.
 * The Airbnb model includes outlier capping, log transformation, and a parameter grid for cross-validation.
 * All results are deterministic (seeded splits and random states).
